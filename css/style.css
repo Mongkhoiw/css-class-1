@@ -1,0 +1,32 @@
+h1 {color: rgb(15, 37, 30);
+font-size: 70px;
+text-align: center;
+font-family: cursive;
+color: dodgerblue;}
+
+#L {  font-size: 25PX;}
+
+span{ font-size: 25px;
+text-decoration: underline;
+color: #38BAD4;}
+
+p{font-size: 35px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+color: rgb(70, 107, 156);}
+
+#a{ font-size: 25px0px;}
+
+img {width: 600px; }
+
+#C {  font-size: 60px;}
+
+a{background-color: black; 
+color: white; font-size: 20px; 
+text-decoration: none; 
+font-family: Arial, Helvetica, sans-serif;
+display: block;
+width: 100px; height: 30px;
+line-height: 30px;
+border-radius: 10px;}
+
+#y { font-size: 25pxpx; }
